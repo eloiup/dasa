@@ -34,3 +34,5 @@ Further improvement opportunities would be:
 Any doubts or suggestions
 
 eloi@pattaro.com.br
+
+ps: its important to notice (as noted in the FE.ipynb file) that the target variable is not the given "duration" but rather a value that has to be calculated.
